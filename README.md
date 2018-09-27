@@ -2,7 +2,7 @@
 
 ## Obvio, el h2
 
-Si quieren escribir un párrafo lo hace así
+Si quieren escribir un párrafo lo hace así 'esto es para codigo'
 
 
 esto
@@ -14,6 +14,6 @@ de
 código
 
 
-
+**negrita** y *cursiva*
 
 Primera clase: Multimedia 2
