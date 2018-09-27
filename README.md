@@ -2,7 +2,7 @@
 
 ## Obvio, el h2
 
-Si quieren escribir un párrafo lo hace así 'esto es para codigo'
+Si quieren escribir un párrafo lo hace así'esto es para codigo'
 
 
 esto
